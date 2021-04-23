@@ -50,18 +50,22 @@ SECTION 4 : PYTHON WEB APPLICATION DEVELOPMENT
 #25  Backend : Python Flask Server
 #26  Web Application-QR Code Generator
 #27   QR Code Generator- Web App GUI
-Related Files uploaded above in this repository in QR folder: app.html app.css  app.js    Dubai.jpg  QRSample.png
+
+(Related Files uploaded above in this repository in QR folder)
 #28   QR Code Generator-Backend Python Code
-Related Files uploaded above in this repository in QR folder: qrcq.py  QRTest.png server.py util.py
+
+(Related Files uploaded above in this repository in QR folder)
 
 
 SECTION 5 : PYTHON DESKTOP APPLICATION DEVELOPMENT
 
 
 #29  Desktop Application with EEL
-Related Files uploaded above in this repository in QR-EEL folder
+
+(Related Files uploaded above in this repository in QR-EEL folder)
 #30  Other Sample Projects
-Related Files uploaded above in this repository in TEXTOSPEECH folder
+
+(Related Files uploaded above in this repository in TEXT2SPEECH folder)
 
 
 SECTION 6 : OPPORTUNITIES AND CONCLUSION
